@@ -1,2 +1,2 @@
 # Java
-Daailycodes
+Dailycodes
